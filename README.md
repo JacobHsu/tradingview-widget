@@ -46,5 +46,15 @@ new TradingView.widget(
   ],
 }
 ```  
-  
+ 
+[威廉鱷魚指標(Alligator)](https://www.itsfun.com.tw/%E9%B1%B7%E9%AD%9A%E6%8C%87%E6%A8%99/wiki-4576424-9268404)
+
+鱷魚指標(Alligator)，有藍、紅、綠三條。藍線，是鱷魚的顎。紅線，是鱷魚的牙齒。綠線，是鱷魚的上唇。
+當由下而上依顎－齒－唇排列時，作者喻為鱷魚自睡眠中醒來，則將開始尋找食物發動攻勢，表示即將有多頭行情出現。
+
+```js
+  "studies": [
+    "WilliamsAlligator@tv-basicstudies"
+  ],
+```
   
