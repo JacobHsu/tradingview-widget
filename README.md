@@ -23,6 +23,21 @@ new TradingView.widget(
 }
 ```
 
+[平滑異同移動平均線(MACD)](https://tw.tradingview.com/scripts/macd/)
+
+MACD是一種非常流行的技術分析指標，可以用於識別一個股票的總體趨勢。最值得注意的是動量(直方圖)  
+
+當柱狀圖由負翻正，快線往上突破慢線，被視為黃金交叉(預測市場會上漲)，  
+表示後續可能會有一波漲幅，投資人通常視為買入信號。  
+
+```js
+  new TradingView.widget(
+  {
+  "studies": [
+    "MACD@tv-basicstudies"
+  ],
+```
+
 Stochastic [隨機震盪指標(KD)](https://tw.tradingview.com/scripts/stochastic/)
 
 隨機震盪指標是一個範圍區間動量震盪指標。隨機震盪指標被設計用來顯示在一個用戶定義時間段內的收盤價位置與高/低範圍之間的比較。
