@@ -72,4 +72,11 @@ new TradingView.widget(
     "WilliamsAlligator@tv-basicstudies"
   ],
 ```
+
+[順勢指標(CCI)](https://tw.tradingview.com/scripts/commoditychannelindex/)
+
+順勢指標(CCI)是一種動量震盪器。CCI通常用於查找反轉和背離。
+CCI指標的分析區間集中在﹣100——﹢100之間，
+當CCI＞﹢100時，表明股價進到超買區間，
+當CCI＜﹣100時，表明股價進到超賣區間。
   
